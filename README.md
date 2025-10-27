@@ -1,2 +1,1 @@
-# Unlock-Academy-of-Dance-and-Music-Project
-A Consultancy Project
+A Consultancy Project of Dance and Music Academy
